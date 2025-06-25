@@ -23,7 +23,4 @@ A simple, elegant, and fully responsive landing page for a coffee shop built wit
 2. Open `index.html` in any modern browser
 3. Test responsiveness by resizing your browser window
 
-## Demo
-
-
 **Note:** This project was developed as part of my internship with Prodigy InfoTech.
